@@ -33,6 +33,6 @@ Welcome to my personal **Portfolio Website**, where I showcase my skills, projec
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/your-github-dev-ujjawal/my-portfolio.git
+git clone https://github.com/dev-ujjawal/my-portfolio.git
 cd my-portfolio
 
